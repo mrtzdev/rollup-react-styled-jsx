@@ -1,7 +1,7 @@
 {
   "name": "rollup-react-styled-jsx",
   "version": "1.0.0",
-  "description": "A Rollup starter for React styled-jsx ",
+  "description": "A Rollup starter for React styled-jsx components",
   "main": "dist/bundle.js",
   "module": "dist/bundle.esm.js",
   "scripts": {
