@@ -4,19 +4,19 @@ A Rollup starter for React styled-jsx components.
 
 ## Setup
 
-1、Clone:
+Clone:
 
 ```
 git clone https://github.com/mrtzdev/rollup-react-styled-jsx.git
 ```
 
-2、install dependencies:
+install dependencies:
 
 ```
 npm install
 ```
 
-3、Run build
+Run build
 
 ```
 npm run build
