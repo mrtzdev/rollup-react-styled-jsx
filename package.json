@@ -9,6 +9,15 @@
   },
   "author": "mrtzdev",
   "license": "ISC",
+  "keywords": [
+    "rollup",
+    "styled-jsx",
+    "components",
+    "react",
+    "react rollup",
+    "rollup boilerplate"
+    
+  ],
   "dependencies": {
     "@babel/core": "^7.17.9",
     "@babel/preset-env": "^7.16.11",
